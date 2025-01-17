@@ -50,4 +50,4 @@ I believe every project, no matter how small, is a step forward in learning. My 
 
 Thanks for visiting! 🚀
 
-<p style="opacity: 0.01>tapi boong</p>
+tapi boong
