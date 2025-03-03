@@ -10,16 +10,12 @@ I'm a **Fullstack Developer** and an aspiring **Mobile Developer** who loves exp
 - **Backend**: PHP, Express.js
 - **Databases**: MySQL (advanced), Oracle (basic)
 
-### Mobile Development
-- **React Native**: Experimenting with cross-platform apps
-- **Kotlin**: Learning Android app development fundamentals
-
 ---
 
 ## 🛠️ **Tech Stack**
-- **Languages**: JavaScript (with ES6+), PHP, Java, Kotlin, PL-SQL
+- **Languages**: JavaScript (with ES6+), PHP, Java, PL-SQL
 - **Frontend**: React.js, Tailwind CSS, Bootstrap 5
-- **Backend**: Express.js (quite skilled), Laravel (beginner), Spring Boot (beginner), Nest.js (beginner)
+- **Backend**: Express.js (quite skilled), Laravel (quite skilled), Spring Boot (beginner), Nest.js (beginner)
 - **Tools**:
   - **Editors**: IntelliJ IDEA, PyCharm, VSCode, Sublime Text  
   - **Unit Testing**: Basic experience with testing frameworks
@@ -29,7 +25,6 @@ I'm a **Fullstack Developer** and an aspiring **Mobile Developer** who loves exp
 
 ## 📂 **What's in My Repositories?**
 My GitHub is mostly a collection of:
-- **Hello World Projects**: Experimenting with new frameworks and libraries
 - **UI Prototypes**: Styling ideas and frontend design testing
 - **Small Apps**: Things like calculators
 - **Learning Projects**: Trying out new tools and technologies or connecting a language to another language  
@@ -37,7 +32,6 @@ My GitHub is mostly a collection of:
 ---
 
 ## 🌱 **Currently Exploring**
-- Advanced **React Native** for mobile development
 - Deep diving into **UI/UX** with frontend frameworks
 - Experimenting with **REST APIs** and backend integration
 
